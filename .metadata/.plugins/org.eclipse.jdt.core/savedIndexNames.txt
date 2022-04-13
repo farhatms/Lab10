@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\guest temp\Desktop\Lab10\.metadata\.plugins\org.eclipse.jdt.core
+2607693760.index
+4065108000.index
+2360125068.index
+2241449533.index
+196738750.index
+1842396225.index
+733471706.index
+1865797976.index
+899535060.index
+1836554431.index
+3080149283.index
+3304978960.index
+1745991408.index
+1764154959.index
+1615100419.index
+2518544457.index
+2143315025.index
+737645937.index
