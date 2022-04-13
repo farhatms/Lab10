@@ -82,6 +82,5 @@ testDuplicates();
           	Sortedarr[8] = 7;
           	sort.basicSelectionSort(arr);
           	assertEquals(Sortedarr[0], arr[0]);
-
     }
 }
