@@ -97,7 +97,10 @@ testDuplicates();
           	Sortedarr[8] = 7;
           	sort.basicSelectionSort(arr);
           	assertEquals(Sortedarr[0], arr[0]);
+<<<<<<< HEAD
             
 
+=======
+>>>>>>> d9109d5a207a72e77d3bba785996a313fa72576d
     }
 }
